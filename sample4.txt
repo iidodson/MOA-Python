@@ -1,0 +1,7 @@
+When you write 'print fact()', you're asking
+Python to print the value returned by the
+function. Since you haven't explicitly defined
+a return value, it returns None by default.
+The None is the return value of the function.
+The answer is printed because of the instruction
+inside the function to do s
